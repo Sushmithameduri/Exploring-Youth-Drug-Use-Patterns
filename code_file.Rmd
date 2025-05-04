@@ -1,5 +1,5 @@
 ---
-title: "Assignment_1_Decision_Trees"
+title: "Decision_Trees"
 author: "Sushmitha Meduri"
 date: "2024-04-12"
 output: html_document
